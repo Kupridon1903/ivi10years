@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c50a061e-547a-4f87-a0f0-0279ec33ae70" name="SMIT-ivi" url="http://195.201.117.35">
+        <fileTransfer host="195.201.117.35" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/html/projects/ivi_10years" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
